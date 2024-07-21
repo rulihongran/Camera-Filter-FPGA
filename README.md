@@ -20,9 +20,9 @@ FPGA camera filter project for 102109 Digital Logic, Fall 2022, Tongji Universit
 
 1. 初始状态
 
-   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/init.png" alt="Example Image" width="300">
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/init.png" alt="Example Image" width="400">
 
-   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/init2.png" alt="Example Image" width="300">
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/init2.png" alt="Example Image" width="400">
 
 2. 颜色检测及对应滤镜
 
