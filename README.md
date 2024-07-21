@@ -42,7 +42,7 @@ FPGA camera filter project for 102109 Digital Logic, Fall 2022, Tongji Universit
 
    <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/red.png" alt="Example Image" width="500">
 
-   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_edge_red.png" alt="Example Image" width="500">
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_red.png" alt="Example Image" width="500">
 
    绿色
 
@@ -54,4 +54,4 @@ FPGA camera filter project for 102109 Digital Logic, Fall 2022, Tongji Universit
 
    <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/blue.png" alt="Example Image" width="500">
 
-   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_edge_blue.png" alt="Example Image" width="500">
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_blue.png" alt="Example Image" width="500">
