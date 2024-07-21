@@ -28,9 +28,9 @@ FPGA camera filter project for 102109 Digital Logic, Fall 2022, Tongji Universit
 
    白色
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/white.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/white.png" alt="Example Image" width="500">
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_edge_white.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_edge_white.png" alt="Example Image" width="500">
 
    黑色
 
