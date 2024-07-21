@@ -34,26 +34,24 @@ FPGA camera filter project for 102109 Digital Logic, Fall 2022, Tongji Universit
 
    黑色
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/black.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/black.png" alt="Example Image" width="500">
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_edge_black.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_edge_black.png" alt="Example Image" width="500">
 
    红色
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/red.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/red.png" alt="Example Image" width="500">
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_red.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_edge_red.png" alt="Example Image" width="500">
 
    绿色
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/green.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/green.png" alt="Example Image" width="500">
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_green.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_green.png" alt="Example Image" width="500">
 
    蓝色
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/blue.png)
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/blue.png" alt="Example Image" width="500">
 
-   ![image](https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_blue.png)
-
-   
+   <img src="https://github.com/rulihongran/Camera-Filter-FPGA/blob/main/image/filter_edge_blue.png" alt="Example Image" width="500">
